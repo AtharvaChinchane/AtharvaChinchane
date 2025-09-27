@@ -56,7 +56,6 @@ When not coding, you’ll find me brainstorming project ideas, working on open-s
 
 - ✉️ Email: **atharvachinchane10@gmail.com**  
 - 💼 LinkedIn: [https://linkedin.com/in/atharva-chinchane](#)  
-- 🌐 Portfolio: *Coming Soon…*  
 
 ---
 
