@@ -39,7 +39,7 @@ When not coding, you’ll find me brainstorming project ideas, working on open-s
 - 📊 **Stock Analysis Dashboard** → Streamlit + MySQL + Neo4j + RAG chatbot for finance insights  
 - 🔍 **Credit Card Fraud Detection** → Handling imbalanced datasets with ML models  
 - 🏏 **IPL Analytics** → Interactive dashboard for cricket insights and predictions  
-- 🔖 **Indian Number Plate Recognition** → YOLOv8 + OCR for real-time plate extraction  
+- 🔖 **StockChat** → RAG based stock market assistant
 
 ---
 
