@@ -1,52 +1,73 @@
-# 👋 Hey there! I'm Atharva Chinchane
+Of course, here is a more informative and detailed README for your GitHub profile, with a focus on your pinned repositories.
 
-🎓 Final-year student passionate about **Machine Learning**, **Computer Vision**, and **Data Analytics** — always building, always learning.
+Atharva Chinchane | Machine Learning & Computer Vision Enthusiast
+Hello there! I'm Atharva, a passionate and driven student with a strong interest in the ever-evolving fields of Machine Learning, Computer Vision, and Data Analytics. I am dedicated to leveraging technology to build innovative solutions for real-world challenges. My goal is to contribute to impactful projects and continuously expand my knowledge in the AI landscape.
 
-🔍 Currently diving deep into:
-- 🧠 AI/ML projects (like Indian Number Plate Recognition using YOLOv8 & OCR)
-- 📊 Data Analytics (Python, R, SQL, Dashboards)
-- ☁️ Cloud tools (AWS for secure infrastructure design in real-life scenarios like hospitals)
-- ⚙️ Systems Programming (C, system calls, process scheduling algorithms)
+🚀 Pinned Projects
+Here are some of my featured projects. Feel free to explore the repositories for more details!
 
----
+Project	Description	Technologies
+VahanVision	A computer vision-based project for vehicle detection and recognition. This likely involves object detection and optical character recognition (OCR) for number plates.	Python, Computer Vision Libraries (e.g., OpenCV)
+QuickLearn-AI	An AI-powered learning assistant designed to provide quick and efficient learning experiences.	Python, AI/ML Libraries
+IPL-Analysis-Dashboard	An interactive and insightful dashboard for analyzing and visualizing data from the Indian Premier League (IPL).	Data Analysis Libraries (e.g., Pandas, Matplotlib, Seaborn)
+Gemini-Pro-Chatbot	A conversational AI chatbot built using the Gemini Pro model, showcasing capabilities in natural language processing and generation.	Python, Gemini Pro API
+SomniWell	A web-based project focused on promoting better sleep and overall wellness, likely featuring a user-friendly interface.	HTML, CSS, JavaScript
+Customer-Churn-Prediction	A machine learning model to predict customer churn, demonstrating skills in data preprocessing, model training, and evaluation.	Jupyter Notebook, Scikit-learn, Pandas
 
-## 🔧 Tech Toolbox
+Export to Sheets
+🛠️ My Tech Stack & Skills
+Languages
+Python
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+R
 
----
+C
 
-## 🚀 Featured Projects
+HTML5
 
-### 🔎 [Indian Number Plate Recognition](https://github.com/AtharvaChinchane/Number-Plate-Recognition)
-> Detects and identifies Indian vehicle plates using YOLOv8 and EasyOCR, outputs annotated images + CSV results with state recognition.
+CSS3
 
-### 🛡️ CodeDoc Hackathon @ Yantra
-> Organized a coding hackathon as Co-Secretary of IEEE IAS — drew in 12+ competitive teams, enabling real-world problem solving and collaboration.
+JavaScript
 
-### 📊 Credit Card Fraud Detection
-> Applied ML techniques to real-world imbalanced data. Detected anomalies and evaluated models using precision-recall and ROC curves.
+SQL (MySQL)
 
----
+Tools & Frameworks
+Streamlit
+
+YOLOv8
+
+OpenCV
+
+Areas of Expertise
+Machine Learning
+
+Computer Vision
+
+Data Analytics
+
+🌱 Currently Exploring
+I'm always eager to learn and grow. Currently, I'm focusing on:
+
+Deepening my understanding of advanced deep learning architectures.
+
+Exploring MLOps to streamline the deployment and maintenance of machine learning models.
+
+Contributing to open-source projects.
+
+📊 My GitHub Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AtharvaChinchane&show_icons=true&theme=radical" alt="Atharva's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaChinchane&theme=dark" alt="Atharva's GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChinchane&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+📫 Let's Connect!
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+
+LinkedIn: [https://linkedin.com/in/atharva-chinchane]
 
 
-## 📫 Let's Connect
-
-- ✉️ atharvachinchane10@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/atharvachinchane/)  
-- 🌐 Portfolio coming soon!
-
----
-
-⚡ *“Code. Connect. Create. Repeat.”*
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AtharvaChinchane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
