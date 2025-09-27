@@ -39,7 +39,8 @@ When not coding, you’ll find me brainstorming project ideas, working on open-s
 - 📊 **Stock Analysis Dashboard** → Streamlit + MySQL + Neo4j + RAG chatbot for finance insights  
 - 🔍 **Credit Card Fraud Detection** → Handling imbalanced datasets with ML models  
 - 🏏 **IPL Analytics** → Interactive dashboard for cricket insights and predictions  
-  
+- 📚 **QuickLearn-AI** → An AI-powered learning assistant that simplifies complex topics with examples, quizzes, and interactive guidance  
+
 
 ---
 
