@@ -1,62 +1,76 @@
+<div align="center">
+  
+# 👨‍💻 Atharva Chinchane  
 
-                                                                                          #Atharva Chinchane 
-Hello there! I'm Atharva, a passionate and driven student with a strong interest in the ever-evolving fields of Machine Learning, Computer Vision, and Data Analytics. I am dedicated to leveraging technology to build innovative solutions for real-world challenges. My goal is to contribute to impactful projects and continuously expand my knowledge in the AI landscape.
+🎓 Final-year undergrad passionate about **Machine Learning, Computer Vision, and Data Analytics**.  
+I enjoy solving real-world problems with AI, building efficient systems, and exploring the bridge between **data-driven insights and scalable applications**.  
+When not coding, you’ll find me brainstorming project ideas, working on open-source, or experimenting with cloud & deployment tools.  
 
+---
 
-Export to Sheets
-🛠️ My Tech Stack & Skills
-Languages
-Python
+</div>
 
-R
+## 🚀 About Me  
 
-C
+- 🔍 Currently working on **AI-powered dashboards & intelligent systems**  
+- 🧠 Keen on **ML model optimization, anomaly detection, and computer vision pipelines**  
+- ☁️ Exploring **Cloud (AWS, Docker) + Databases (MySQL, Neo4j)** for scalable solutions  
+- 🤝 Love collaborating on open-source and mentoring juniors in tech communities  
+- 🎯 Goal: **Engineer systems that merge intelligence with impact**  
 
-HTML5
+---
 
-CSS3
+## 🛠️ Tech Stack  
 
-JavaScript
+| Domain | Tools & Frameworks |
+|--------|--------------------|
+| **Languages** | Python · C · R · JavaScript |
+| **ML & CV** | scikit-learn · PyTorch · TensorFlow · OpenCV · YOLOv8 |
+| **Data & Analytics** | Pandas · NumPy · SQL · Matplotlib · Seaborn |
+| **Web & Apps** | Streamlit · Flask · Django · HTML/CSS |
+| **Cloud & DevOps** | AWS · Docker · Git · CI/CD |
+| **Databases** | MySQL · Neo4j |
 
-SQL (MySQL)
+---
 
-Tools & Frameworks
-Streamlit
+## 🌟 Featured Projects  
 
-YOLOv8
+- 🚗 **VahanVision** → Smart traffic/vehicle vision system using YOLO & data pipelines  
+- 📊 **Stock Analysis Dashboard** → Streamlit + MySQL + Neo4j + RAG chatbot for finance insights  
+- 🔍 **Credit Card Fraud Detection** → Handling imbalanced datasets with ML models  
+- 🏏 **IPL Analytics** → Interactive dashboard for cricket insights and predictions  
+- 🔖 **Indian Number Plate Recognition** → YOLOv8 + OCR for real-time plate extraction  
 
-OpenCV
+---
 
-Areas of Expertise
-Machine Learning
-
-Computer Vision
-
-Data Analytics
-
-🌱 Currently Exploring
-I'm always eager to learn and grow. Currently, I'm focusing on:
-
-Deepening my understanding of advanced deep learning architectures.
-
-Exploring MLOps to streamline the deployment and maintenance of machine learning models.
-
-Contributing to open-source projects.
-
-📊 My GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AtharvaChinchane&show_icons=true&theme=radical" alt="Atharva's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaChinchane&theme=dark" alt="Atharva's GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChinchane&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
-📫 Let's Connect!
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
-
-LinkedIn: [https://linkedin.com/in/atharva-chinchane]
-
+## 📈 GitHub Stats  
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AtharvaChinchane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaChinchane&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChinchane&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
+---
+
+## 💡 Quick Facts  
+
+- 💻 I thrive on **building end-to-end systems** — from models to deployment  
+- 🎶 Music + late-night debugging = my productivity boost  
+- 🧩 Enjoy problem-solving challenges & hackathons  
+- 🌍 Always curious to learn and **connect with global tech communities**  
+
+---
+
+## 📬 Connect With Me  
+
+- ✉️ Email: **atharvachinchane10@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin](#)  
+- 🌐 Portfolio: *Coming Soon…*  
+
+---
+
+<div align="center">
+
+✨ *"Turning ideas into intelligent systems, one project at a time."* ✨  
+
+</div>
