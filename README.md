@@ -43,15 +43,6 @@ When not coding, you’ll find me brainstorming project ideas, working on open-s
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaChinchane&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChinchane&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
 ## 💡 Quick Facts  
 
 - 💻 I thrive on **building end-to-end systems** — from models to deployment  
