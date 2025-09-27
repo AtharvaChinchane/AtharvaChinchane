@@ -39,7 +39,7 @@ When not coding, you’ll find me brainstorming project ideas, working on open-s
 - 📊 **Stock Analysis Dashboard** → Streamlit + MySQL + Neo4j + RAG chatbot for finance insights  
 - 🔍 **Credit Card Fraud Detection** → Handling imbalanced datasets with ML models  
 - 🏏 **IPL Analytics** → Interactive dashboard for cricket insights and predictions  
-- 🔖 **StockChat** → RAG based stock market assistant
+  
 
 ---
 
@@ -55,7 +55,7 @@ When not coding, you’ll find me brainstorming project ideas, working on open-s
 ## 📬 Connect With Me  
 
 - ✉️ Email: **atharvachinchane10@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](#)  
+- 💼 LinkedIn: [https://linkedin.com/in/atharva-chinchane](#)  
 - 🌐 Portfolio: *Coming Soon…*  
 
 ---
